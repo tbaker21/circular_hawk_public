@@ -1,0 +1,8 @@
+yfinance
+gspread
+datetime
+stockstat
+beautifulsoup4
+requests
+anthropic
+oauth2client.service_account
